@@ -12,6 +12,6 @@ It was my second project using React, so I had some problems with States and how
 
 ### Finally
 
-I had fun doing this project. It was a very usefull application and teach me a lot. And have a lot of potential too.
+I had fun doing this project. It is a very usefull application and teach me a lot. And have a lot of potential too.
 
 #### Created with React and .NET 6.0
