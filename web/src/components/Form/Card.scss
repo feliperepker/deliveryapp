@@ -1,0 +1,58 @@
+.card-container{
+  height: 30vh;
+  width:30vw;
+  background-color: rgb(53, 53, 53);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Inter', sans-serif;
+  color: rgb(240, 240, 240);
+  border-radius: 10px;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.315);
+  transition: ease 1s;
+
+
+  h4{
+    font-size: 2vw;
+    text-align: center;
+    font-weight: normal;
+    margin-bottom: 20px;
+  }
+  p{
+    font-size: 7vw;
+  }
+
+}
+.card-container:hover{
+  transform:scale(1.1)
+}
+
+.yellow{
+  background-color:#EEC639;
+  color: rgb(46, 46, 46);
+}
+
+.red{
+  background-color: rgb(179, 31, 31);
+  color: white;
+}
+
+
+@media only screen and (max-width: 740px){
+
+  .card-container{
+    width: 80vw;
+    height: 200px;
+
+
+    h4{
+      font-size: 20px;
+    }
+    p{
+      font-size: 15vw;
+    }
+  }
+
+
+}

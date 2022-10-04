@@ -1,0 +1,128 @@
+.container-fibras{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  gap: 15%;
+}
+.container-button{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+.card-fibras{
+  margin-bottom: 100px;
+}
+
+.trigger{
+  all:unset;
+  font-family: 'Inter', sans-serif;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 4px;
+  padding: 0 15px;
+  font-size: 20px;
+  line-height: 1px;
+  height: 50px;
+  gap: 90px;
+  background-color: rgb(255, 251, 251);
+  color: rgb(109, 109, 109);
+  box-shadow: 0 0 5px rgba(82, 82, 82, 0.281);
+  transition: .2s;
+  min-width: 300px;
+}
+
+.trigger:hover{
+  background-color: rgb(245, 245, 245);
+}
+
+.content{
+  overflow: hidden;
+  background-color: rgb(255, 251, 251);
+  border-radius: 6px;
+  box-shadow: 0px 10px 38px -10px rgba(22,23,24,0.35), 0px 10px 20px -15px rgba(22,23,24,0.2)
+}
+.viewport{
+  padding: 5;
+}
+
+.item{
+  all:unset;
+  font-size: 20px;
+  line-height: 1px;
+  color: rgb(109, 109, 109);
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  height: 35px;
+  padding: 0 35px 0 25px;
+  position: relative;
+  user-select: none;
+  font-family: 'Inter', sans-serif;
+  transition: .2s;
+}
+
+.item:hover{
+  background-color: rgba(38, 46, 58, 0.836);
+  color: white;
+}
+.container-select{
+  margin-bottom: 100px;
+}
+
+@media only screen and (max-width: 740px){
+  .container-fibras{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content:start;
+    gap: 15%;
+    height: 90vh;
+    
+  }
+  .card-fibras{
+    margin-top: 40px;
+    margin-bottom: 60px;
+  }
+  .container-select{
+    margin-bottom: 50px;
+  }
+}
+.button{
+  height: 70px;
+  width: 250px;
+  font-family: 'Inter' sans-serif;
+  font-size: 1.1em;
+  background-color: rgb(44, 47, 77);
+  border: none;
+  border-radius: 8px;
+  color: white; 
+  transition: .2s;
+}
+
+.button:hover{
+  background-color: rgba(44, 47, 77, 0.87);
+  cursor: pointer;
+}
+
+.center-container{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  margin-top: 40px;
+}
+.center-div{
+  width: 100%;
+  font-family: 'Inter', sans-serif;
+  color: rgb(46, 46, 46);
+  h3{
+    font-size: 30px;
+  }
+  p{
+    font-size: 30px;
+  }
+}

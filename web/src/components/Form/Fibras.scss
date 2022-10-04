@@ -1,0 +1,54 @@
+
+.trigger{
+  all:unset;
+  font-family: 'Inter', sans-serif;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 4px;
+  padding: 0 15px;
+  font-size: 20px;
+  line-height: 1px;
+  height: 50px;
+  gap: 90px;
+  background-color: rgb(255, 251, 251);
+  color: rgb(109, 109, 109);
+  box-shadow: 0 0 5px rgba(82, 82, 82, 0.281);
+  transition: .2s;
+  min-width: 300px;
+}
+
+.trigger:hover{
+  background-color: rgb(245, 245, 245);
+}
+
+.content{
+  overflow: hidden;
+  background-color: rgb(255, 251, 251);
+  border-radius: 6px;
+  box-shadow: 0px 10px 38px -10px rgba(22,23,24,0.35), 0px 10px 20px -15px rgba(22,23,24,0.2)
+}
+.viewport{
+  padding: 5;
+}
+
+.item{
+  all:unset;
+  font-size: 20px;
+  line-height: 1px;
+  color: rgb(109, 109, 109);
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  height: 35px;
+  padding: 0 35px 0 25px;
+  position: relative;
+  user-select: none;
+  font-family: 'Inter', sans-serif;
+  transition: .2s;
+}
+
+.item:hover{
+  background-color: rgba(38, 46, 58, 0.836);
+  color: white;
+}
