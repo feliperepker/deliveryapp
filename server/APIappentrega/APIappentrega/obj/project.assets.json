@@ -1176,11 +1176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ssbfdk\\Desktop\\appentrega\\server\\APIappentrega\\APIappentrega\\APIappentrega.csproj",
+      "projectUniqueName": "C:\\Users\\ssbfdk\\Documents\\www\\deliveryapp\\server\\APIappentrega\\APIappentrega\\APIappentrega.csproj",
       "projectName": "APIappentrega",
-      "projectPath": "C:\\Users\\ssbfdk\\Desktop\\appentrega\\server\\APIappentrega\\APIappentrega\\APIappentrega.csproj",
+      "projectPath": "C:\\Users\\ssbfdk\\Documents\\www\\deliveryapp\\server\\APIappentrega\\APIappentrega\\APIappentrega.csproj",
       "packagesPath": "C:\\Users\\ssbfdk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ssbfdk\\Desktop\\appentrega\\server\\APIappentrega\\APIappentrega\\obj\\",
+      "outputPath": "C:\\Users\\ssbfdk\\Documents\\www\\deliveryapp\\server\\APIappentrega\\APIappentrega\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EsxUWID2kAyQBAkvf+7Cr1IyEoGTO4yEYXBoPimI+RdIfE8+/kkk/fBxE39W9HuVtRQ01L94dGeMva5Juar61w==",
+  "dgSpecHash": "o/kds4qCqlMamISVUJu88c2EBkpmhoGo2HmsD+AIl/7PNu7P/i5BI7WEkGNDh9RfWOiRohtp5CyQVkMtFWLi/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ssbfdk\\Desktop\\appentrega\\server\\APIappentrega\\APIappentrega\\APIappentrega.csproj",
+  "projectFilePath": "C:\\Users\\ssbfdk\\Documents\\www\\deliveryapp\\server\\APIappentrega\\APIappentrega\\APIappentrega.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ssbfdk\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ssbfdk\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
