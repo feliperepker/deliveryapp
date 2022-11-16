@@ -1,8 +1,5 @@
 # Delivery app
 
-This project was made to a productive area in a company.
-The goal was to call the operator when he could grab a item, and give it a timer to that.
-
 
 
 ### Difficulties
